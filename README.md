@@ -1,43 +1,43 @@
-<h1 align="center">Hi, I'm Await 👋</h1>
+<h1 align="center">你好，我是 Await 👋</h1>
 
 <p align="center">
-  Building AI workflows, .NET tools, self-hosted platforms, and network automation.
+  专注 AI 工作流、.NET 工具、自托管平台与网络自动化。
 </p>
 
 <p align="center">
   <strong>AI Workflow</strong> · <strong>MCP</strong> · <strong>.NET</strong> · <strong>TypeScript</strong> · <strong>Python</strong> · <strong>Go</strong> · <strong>Networking</strong>
 </p>
 
-## About Me
+## 关于我
 
-- Focused on **AI workflow orchestration**, **MCP tooling**, and **LLM-powered applications**
-- Building practical products with **C#**, **TypeScript**, **Python**, and **Go**
-- Interested in **identity systems**, **media automation**, **remote access**, and **self-hosted infrastructure**
+- 主要关注 **AI 工作流编排**、**MCP 工具链** 与 **LLM 应用落地**
+- 常用技术栈包括 **C#**、**TypeScript**、**Python** 和 **Go**
+- 对 **身份认证系统**、**媒体自动化**、**远程连接**、**自托管基础设施** 这几类方向长期有兴趣
 
-## Current Focus
+## 近期在做
 
-- **agentdocs-orchestrator** — multi-agent orchestration with planning and knowledge management
-- **one-id** — production-oriented OAuth 2.1 / OpenID Connect identity platform
-- **FluxCaption** — subtitle generation and translation powered by ASR + local LLMs
-- **mini-web** — browser-based remote access platform for RDP / SSH / VNC / Telnet
+- **agentdocs-orchestrator** — 面向复杂任务的多 Agent 编排与规划系统
+- **one-id** — 面向生产环境的 OAuth 2.1 / OpenID Connect 身份认证平台
+- **FluxCaption** — 基于 ASR 与本地 LLM 的字幕生成与翻译工具
+- **mini-web** — 支持 RDP / SSH / VNC / Telnet 的 Web 远程连接平台
 
-## Featured Projects
+## 代表项目
 
-| Project | What it does |
+| 项目 | 简介 |
 | --- | --- |
-| [agentdocs-orchestrator](https://github.com/Await-d/agentdocs-orchestrator) | Advanced task orchestration system for multi-agent workflows |
-| [one-id](https://github.com/Await-d/one-id) | Enterprise-ready identity platform with OAuth 2.1 and OIDC support |
-| [FluxCaption](https://github.com/Await-d/FluxCaption) | ASR + local-LLM subtitle generation and translation for media workflows |
-| [mini-web](https://github.com/Await-d/mini-web) | Web-based remote access platform for infrastructure and device management |
-| [TgGod](https://github.com/Await-d/TgGod) | Telegram media download and archive management system |
+| [agentdocs-orchestrator](https://github.com/Await-d/agentdocs-orchestrator) | 多 Agent 协作、任务拆解与知识管理一体化编排系统 |
+| [one-id](https://github.com/Await-d/one-id) | 企业级身份认证平台，支持 OAuth 2.1 与 OIDC |
+| [FluxCaption](https://github.com/Await-d/FluxCaption) | 面向媒体场景的字幕生成、识别与翻译工具 |
+| [mini-web](https://github.com/Await-d/mini-web) | 浏览器内远程连接平台，适合服务器与设备管理 |
+| [TgGod](https://github.com/Await-d/TgGod) | Telegram 群组媒体下载与归档管理系统 |
 
-## What I Usually Explore
+## 我常关注的方向
 
-- AI Agents, MCP, and developer workflows
-- .NET architecture and identity/auth systems
-- Self-hosted platforms, storage, and operations tooling
-- Networking, proxy stacks, tunneling, and remote access
+- AI Agent、MCP 与开发效率工作流
+- .NET 架构设计与身份认证系统
+- 自托管平台、存储能力与运维工具
+- 网络代理、隧道穿透与远程访问
 
 ---
 
-> I like building tools that are practical, automatable, and production-oriented.
+> 我偏爱做那些真正可用、可自动化、并且能落到生产场景里的工具。
