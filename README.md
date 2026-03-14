@@ -1,7 +1,11 @@
 <h1 align="center">你好，我是 Await 👋</h1>
 
 <p align="center">
-  专注 AI 工作流、.NET 工具、自托管平台与网络自动化。
+  构建可落地的 AI 工作流、身份系统与自托管工具。
+</p>
+
+<p align="center">
+  <em>Building production-ready AI workflows, identity systems & self-hosted tools.</em>
 </p>
 
 <p align="center">
@@ -10,9 +14,9 @@
 
 ## 关于我
 
-- 主要关注 **AI 工作流编排**、**MCP 工具链** 与 **LLM 应用落地**
+- 主要构建 **AI 工作流**、**身份系统** 与 **可落地的自托管工具**
 - 常用技术栈包括 **C#**、**TypeScript**、**Python** 和 **Go**
-- 对 **身份认证系统**、**媒体自动化**、**远程连接**、**自托管基础设施** 这几类方向长期有兴趣
+- 持续关注 **MCP 工具链**、**媒体自动化**、**远程连接** 与 **基础设施工程化**
 
 ## 近期在做
 
